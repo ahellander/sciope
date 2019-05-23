@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+tsfresh
+ipywidgets
+dask
+matplotlib
+umap-learn
